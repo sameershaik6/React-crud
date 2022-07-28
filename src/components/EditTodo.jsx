@@ -53,7 +53,6 @@ const EditTodo = (props) => {
             >
                Update 
             </button>
-            <h1>sameer</h1>
         </div>
     );
 }
